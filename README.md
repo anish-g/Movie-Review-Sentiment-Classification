@@ -2,7 +2,7 @@
 
 This project is based on Sentiment Analysis tutorial by Andrew Trask, a Phd student at the university of Oxford and the author of the book Grokking Deep Learning.
 
-# Contents
+## Contents
 
 This project is separated in 6 sections:
 
@@ -13,7 +13,7 @@ This project is separated in 6 sections:
 * Improving the efficiency of the network
 * Further noise reduction
 
-# Frameworks utilized
+## Frameworks utilized
 
 * NumPy
 * Matplotlib (optional)
